@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CarsHome.iml" filepath="$PROJECT_DIR$/.idea/CarsHome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CarsHome-Eureka/CarsHome-Eureka.iml" filepath="$PROJECT_DIR$/CarsHome-Eureka/CarsHome-Eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CarsHome-Parent/CarsHome-Parent.iml" filepath="$PROJECT_DIR$/CarsHome-Parent/CarsHome-Parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CarsHome-ServiceApi/CarsHome-ServiceApi.iml" filepath="$PROJECT_DIR$/CarsHome-ServiceApi/CarsHome-ServiceApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CarsHome-System/CarsHome-System.iml" filepath="$PROJECT_DIR$/CarsHome-System/CarsHome-System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CarsHome-utils/CarsHome-utils.iml" filepath="$PROJECT_DIR$/CarsHome-utils/CarsHome-utils.iml" />
+    </modules>
+  </component>
+</project>

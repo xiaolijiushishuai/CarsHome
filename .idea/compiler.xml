@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="CarsHome-Eureka" />
+        <module name="CarsHome-Parent" />
+        <module name="CarsHome-ServiceApi" />
+        <module name="CarsHome-System" />
+        <module name="CarsHome-utils" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CarsHome-Eureka" target="1.8" />
+      <module name="CarsHome-Parent" target="1.8" />
+      <module name="CarsHome-ServiceApi" target="1.8" />
+      <module name="CarsHome-System" target="1.8" />
+      <module name="CarsHome-utils" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

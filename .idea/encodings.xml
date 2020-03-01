@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/CarsHome-Eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CarsHome-Parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CarsHome-ServiceApi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CarsHome-System" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CarsHome-utils" charset="UTF-8" />
+  </component>
+</project>
