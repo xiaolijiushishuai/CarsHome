@@ -6,10 +6,10 @@ spring:
   data:
       mongodb:
         uri:  mongodb://root:root@localhost:27017
-        database: xc_cms
+        database: cars_user
   datasource:
-    druid:
-      url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8
+      druid:
+      url: jdbc:mysql://localhost:3306/cars_home?characterEncoding=utf-8
       username: root
       password: root
       driverClassName: com.mysql.jdbc.Driver

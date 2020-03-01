@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/CarsHome-Eureka/pom.xml" />
         <option value="$PROJECT_DIR$/CarsHome-utils/pom.xml" />
         <option value="$PROJECT_DIR$/CarsHome-ServiceApi/pom.xml" />
+        <option value="$PROJECT_DIR$/CarsHome-model/pom.xml" />
       </list>
     </option>
   </component>
