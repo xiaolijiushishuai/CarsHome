@@ -13,6 +13,6 @@ public class UserController {
 
     @GetMapping("/check/{id}")
     public String check(@PathVariable("id") String id){
-        return "xiaolijiushizhemeshuai3";
+        return "xiaolijiushizhemeshuai6";
     }
 }
