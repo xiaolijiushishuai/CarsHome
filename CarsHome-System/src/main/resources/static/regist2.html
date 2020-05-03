@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>CarsHome</title>
-    <link rel="stylesheet" type="text/css" href="../css/regist.css">
-    <script type="text/javascript" src="../jquery/jquery-3.3.1.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/regist.css">
+    <script type="text/javascript" src="jquery/jquery-3.3.1.js"></script>
     <style>
 
         #logo{
@@ -130,7 +130,7 @@
                 if(checkUsername() && checkPassword() && checkEmail() &&checkPhoneNumber()){
                     //校验通过,发送ajax请求，提交表单的数据   username=zhangsan&password=123
                 alert(888)
-                    $.post("registUserServlet",$(this).serialize(),function(data){
+                    $.post("user/",$(this).serialize(),function(data){
                         //处理服务器响应的数据  data  {flag:true,errorMsg:"注册失败"}
 
                         if(data.flag){

@@ -8,7 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="CarsHome-Eureka" />
         <module name="CarsHome-model" />
-        <module name="CarsHome-Parent" />
         <module name="CarsHome-ServiceApi" />
         <module name="CarsHome-System" />
         <module name="CarsHome-utils" />

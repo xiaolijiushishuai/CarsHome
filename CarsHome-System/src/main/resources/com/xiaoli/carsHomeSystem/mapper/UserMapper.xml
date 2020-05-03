@@ -4,4 +4,11 @@
     <select id="checkUser" resultType="com.xiaoli.carshomemodel.System.domain.User">
         SELECT * from cars_user where username=#{userName}
     </select>
+    <select id="logIn" parameterType="com.xiaoli.carshomemodel.System.domain.User" resultType="com.xiaoli.carshomemodel.System.domain.User">
+        SELECT * from cars_user where phone=#{user.phone} or email=#{user.email} and password=#{user.password}
+    </select>
+    <insert id="registerUser" parameterType="com.xiaoli.carshomemodel.System.domain.User">
+        insert into cars_user (username,password,email,phone) VALUES (#{user.userName},#{user.password},#{user.email},#{user.phone})
+    </insert>
+
 </mapper>
